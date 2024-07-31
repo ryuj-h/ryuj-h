@@ -1,6 +1,7 @@
-# 👋 안녕하세요, 저는 류진호입니다!
+# 👋 Hello World!
 
-제 GitHub 프로필에 오신 것을 환영합니다! 저는 효율적이고 확장 가능한 소프트웨어 솔루션을 만드는 것을 사랑하는 Java 개발자입니다.
+제 GitHub 프로필에 오신 것을 환영합니다! 저는 효율적이고 확장 가능한 소프트웨어 솔루션을 만드는 것을 사랑하는 Java 개발자 류진호입니다.
+![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=ryuj-h&show_icons=true&theme=radical)
 
 ## 🚀 소개
 
@@ -27,11 +28,6 @@
 - Docker
 - Maven
 - Jenkins
-
-## 📈 GitHub 통계
-
-![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=ryuj-h&show_icons=true&theme=radical)
-
 
 ## 🤝 Link
 
