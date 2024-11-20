@@ -22,10 +22,8 @@ Java 개발자 류진호입니다. <br>
  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
   <br><br>
-## 🤝 Link
 
 
-제 프로필을 방문해 주셔서 감사합니다! 
 <br><br>
 ---
 
