@@ -1,27 +1,14 @@
-# 👋 Hello World!
+#  Hello World!
 
 ![당신의 GitHub 통계](https://github-readme-stats.vercel.app/api?username=ryuj-h&show_icons=true&theme=radical)<br><br>
 Java 개발자 류진호입니다. <br>
 
 
-## 🚀 소개
+##  소개
 
-- 🌱 현재 배우고 있는 것: 고급 Java 개념, Spring Boot, 마이크로서비스 아키텍처
-- 💬 저에게 물어보세요: Java, Spring Boot, RESTful API, 마이크로서비스, 소프트웨어 아키텍처
 - 📫 연락처: [JinhoRyu.dev@gmail.com]
 <br><br>
-## 🛠 기술
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) <br>
- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
- ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)<br>
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
- ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-  <br><br>
+##  기술
 
 
 <br><br>
